@@ -94,6 +94,6 @@ In brief, Our model gives around 98 % accuracy with different classes
 
 # License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Akshita1906/pulses-classification/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Akshita1906/Indian-Pulses-Classification/blob/master/LICENSE) file for details.
 
 Contact back if you want to access the dataset.
